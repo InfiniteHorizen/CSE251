@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" width="760" height="380" role="img" aria-labelledby="t d">
+  <title id="t">When can a source be removed</title><desc id="d">A source can be removed only if one of its ends is ground. Keeping the ground wire after replacing it with a label creates a short circuit. A floating source must stay.</desc>
+  <defs><marker id="ah" markerWidth="10" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L9,4 L0,8 z" fill="#1f2937"/></marker></defs>
+  <rect x="1" y="1" width="758" height="378" rx="12" fill="#ffffff" stroke="#d1d5db"/>
+  <text x="140" y="30" text-anchor="middle" font-size="15" font-weight="700" fill="#15803d" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>Cell with a grounded end</tspan></text>
+  <text x="380" y="30" text-anchor="middle" font-size="15" font-weight="700" fill="#b91c1c" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>Wrong: ground wire kept</tspan></text>
+  <text x="620" y="30" text-anchor="middle" font-size="15" font-weight="700" fill="#1d4ed8" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>No ground on either end</tspan></text>
+  <circle cx="140" cy="70" r="4" fill="#1f2937"/>
+  <text x="154" y="74" text-anchor="start" font-size="12" font-weight="400" fill="#6b7280" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>to the circuit</tspan></text>
+  <line x1="140" y1="70" x2="140" y2="106" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="140" cy="120" r="14" fill="#ffffff" stroke="#1f2937" stroke-width="2"/>
+  <text x="140" y="117" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif">+</text>
+  <text x="140" y="131" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif">−</text>
+  <text x="164" y="125" text-anchor="start" font-size="14" font-weight="600" fill="#1d4ed8" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>5 V</tspan></text>
+  <line x1="140" y1="134" x2="140" y2="160" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <line x1="140" y1="160" x2="140" y2="168" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <line x1="129" y1="168" x2="151" y2="168" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <line x1="133" y1="173" x2="147" y2="173" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <line x1="137" y1="178" x2="143" y2="178" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="380" cy="70" r="4" fill="#1f2937"/>
+  <text x="394" y="74" text-anchor="start" font-size="12" font-weight="400" fill="#6b7280" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>to the circuit</tspan></text>
+  <line x1="380" y1="70" x2="380" y2="106" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="380" cy="120" r="14" fill="#ffffff" stroke="#1f2937" stroke-width="2"/>
+  <text x="380" y="117" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif">+</text>
+  <text x="380" y="131" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif">−</text>
+  <text x="404" y="125" text-anchor="start" font-size="14" font-weight="600" fill="#1d4ed8" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>5 V</tspan></text>
+  <line x1="380" y1="134" x2="380" y2="160" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <line x1="380" y1="160" x2="380" y2="168" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <line x1="369" y1="168" x2="391" y2="168" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <line x1="373" y1="173" x2="387" y2="173" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <line x1="377" y1="178" x2="383" y2="178" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="620" cy="70" r="4" fill="#1f2937"/>
+  <text x="634" y="74" text-anchor="start" font-size="12" font-weight="400" fill="#6b7280" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>node a</tspan></text>
+  <line x1="620" y1="70" x2="620" y2="106" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="620" cy="120" r="14" fill="#ffffff" stroke="#1f2937" stroke-width="2"/>
+  <text x="620" y="117" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif">+</text>
+  <text x="620" y="131" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif">−</text>
+  <text x="644" y="125" text-anchor="start" font-size="14" font-weight="600" fill="#1d4ed8" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>5 V</tspan></text>
+  <line x1="620" y1="134" x2="620" y2="170" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="620" cy="170" r="4" fill="#1f2937"/>
+  <text x="634" y="174" text-anchor="start" font-size="12" font-weight="400" fill="#6b7280" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>node b</tspan></text>
+  <line x1="140" y1="200" x2="140" y2="232" stroke="#1f2937" stroke-width="2" stroke-linecap="round" marker-end="url(#ah)"/>
+  <line x1="380" y1="200" x2="380" y2="232" stroke="#1f2937" stroke-width="2" stroke-linecap="round" marker-end="url(#ah)"/>
+  <circle cx="140" cy="262" r="5" fill="#1d4ed8"/>
+  <text x="140" y="250" text-anchor="middle" font-size="15" font-weight="700" fill="#1d4ed8" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>5 V</tspan></text>
+  <text x="140" y="305" text-anchor="middle" font-size="14" font-weight="600" fill="#15803d" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>✓ Remove the cell,</tspan></text>
+  <text x="140" y="325" text-anchor="middle" font-size="14" font-weight="600" fill="#15803d" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>write 5 V on the point</tspan></text>
+  <circle cx="380" cy="262" r="5" fill="#1d4ed8"/>
+  <text x="380" y="250" text-anchor="middle" font-size="15" font-weight="700" fill="#1d4ed8" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>5 V</tspan></text>
+  <line x1="380" y1="262" x2="380" y2="282" stroke="#b91c1c" stroke-width="2" stroke-linecap="round"/>
+  <line x1="380" y1="282" x2="380" y2="290" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <line x1="369" y1="290" x2="391" y2="290" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <line x1="373" y1="295" x2="387" y2="295" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <line x1="377" y1="300" x2="383" y2="300" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <text x="402" y="272" text-anchor="start" font-size="13" font-weight="600" fill="#b91c1c" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>also 0 V ?!</tspan></text>
+  <text x="380" y="335" text-anchor="middle" font-size="14" font-weight="600" fill="#b91c1c" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>✗ 5 V and 0 V at one point</tspan></text>
+  <text x="380" y="355" text-anchor="middle" font-size="14" font-weight="600" fill="#b91c1c" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>= short circuit</tspan></text>
+  <text x="620" y="245" text-anchor="middle" font-size="14" font-weight="600" fill="#1d4ed8" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>Neither end is ground,</tspan></text>
+  <text x="620" y="265" text-anchor="middle" font-size="14" font-weight="600" fill="#1d4ed8" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>so there is no known</tspan></text>
+  <text x="620" y="285" text-anchor="middle" font-size="14" font-weight="600" fill="#1d4ed8" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>potential to write down.</tspan></text>
+  <text x="620" y="325" text-anchor="middle" font-size="14" font-weight="600" fill="#1d4ed8" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>✓ Keep the source drawn</tspan></text>
+</svg>

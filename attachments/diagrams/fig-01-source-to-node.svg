@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 310" width="760" height="310" role="img" aria-labelledby="t d">
+  <title id="t">Replacing a grounded source with a node label</title><desc id="d">A 10 V battery with its negative end on ground is removed; its positive end becomes a point labelled 10 V.</desc>
+  <defs><marker id="ah" markerWidth="10" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L9,4 L0,8 z" fill="#1f2937"/></marker></defs>
+  <rect x="1" y="1" width="758" height="308" rx="12" fill="#ffffff" stroke="#d1d5db"/>
+  <text x="150" y="30" text-anchor="middle" font-size="15" font-weight="600" fill="#6b7280" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>Before: source drawn</tspan></text>
+  <text x="570" y="30" text-anchor="middle" font-size="15" font-weight="600" fill="#6b7280" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>After: line circuit</tspan></text>
+  <line x1="70" y1="70" x2="190" y2="70" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <line x1="70" y1="70" x2="70" y2="111" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="70" cy="125" r="14" fill="#ffffff" stroke="#1f2937" stroke-width="2"/>
+  <text x="70" y="122" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif">+</text>
+  <text x="70" y="136" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif">−</text>
+  <line x1="70" y1="139" x2="70" y2="225" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <text x="48" y="130" text-anchor="end" font-size="14" font-weight="600" fill="#1d4ed8" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>10 V</tspan></text>
+  <line x1="150" y1="225" x2="70" y2="225" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <polyline points="190.0,70.0 190.0,82.0 198.0,84.6 182.0,89.8 198.0,94.9 182.0,100.1 198.0,105.2 182.0,110.4 190.0,113.0 190.0,125.0" fill="none" stroke="#1f2937" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="208" y="102.5" text-anchor="start" font-size="14" font-weight="400" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>1 Ω</tspan></text>
+  <circle cx="190" cy="125" r="4" fill="#1f2937"/>
+  <line x1="150" y1="125" x2="230" y2="125" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <polyline points="150.0,125.0 150.0,137.0 158.0,143.3 142.0,156.0 158.0,168.7 142.0,181.3 158.0,194.0 142.0,206.7 150.0,213.0 150.0,225.0" fill="none" stroke="#1f2937" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <polyline points="230.0,125.0 230.0,137.0 238.0,143.3 222.0,156.0 238.0,168.7 222.0,181.3 238.0,194.0 222.0,206.7 230.0,213.0 230.0,225.0" fill="none" stroke="#1f2937" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="134" y="180.0" text-anchor="end" font-size="14" font-weight="400" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>2 Ω</tspan></text>
+  <text x="246" y="180.0" text-anchor="start" font-size="14" font-weight="400" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>3 Ω</tspan></text>
+  <line x1="150" y1="225" x2="230" y2="225" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="190" cy="225" r="4" fill="#1f2937"/>
+  <line x1="190" y1="225" x2="190" y2="233" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <line x1="179" y1="233" x2="201" y2="233" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <line x1="183" y1="238" x2="197" y2="238" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <line x1="187" y1="243" x2="193" y2="243" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="610" cy="70" r="5" fill="#1d4ed8"/>
+  <text x="610" y="58" text-anchor="middle" font-size="15" font-weight="700" fill="#1d4ed8" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>10 V</tspan></text>
+  <polyline points="610.0,70.0 610.0,82.0 618.0,84.6 602.0,89.8 618.0,94.9 602.0,100.1 618.0,105.2 602.0,110.4 610.0,113.0 610.0,125.0" fill="none" stroke="#1f2937" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="628" y="102.5" text-anchor="start" font-size="14" font-weight="400" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>1 Ω</tspan></text>
+  <circle cx="610" cy="125" r="4" fill="#1f2937"/>
+  <line x1="570" y1="125" x2="650" y2="125" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <polyline points="570.0,125.0 570.0,137.0 578.0,143.3 562.0,156.0 578.0,168.7 562.0,181.3 578.0,194.0 562.0,206.7 570.0,213.0 570.0,225.0" fill="none" stroke="#1f2937" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <polyline points="650.0,125.0 650.0,137.0 658.0,143.3 642.0,156.0 658.0,168.7 642.0,181.3 658.0,194.0 642.0,206.7 650.0,213.0 650.0,225.0" fill="none" stroke="#1f2937" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="554" y="180.0" text-anchor="end" font-size="14" font-weight="400" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>2 Ω</tspan></text>
+  <text x="666" y="180.0" text-anchor="start" font-size="14" font-weight="400" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>3 Ω</tspan></text>
+  <line x1="570" y1="225" x2="650" y2="225" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="610" cy="225" r="4" fill="#1f2937"/>
+  <line x1="610" y1="225" x2="610" y2="233" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <line x1="599" y1="233" x2="621" y2="233" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <line x1="603" y1="238" x2="617" y2="238" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <line x1="607" y1="243" x2="613" y2="243" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <line x1="325" y1="150" x2="375" y2="150" stroke="#1f2937" stroke-width="2" stroke-linecap="round" marker-end="url(#ah)"/>
+  <text x="150" y="275" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>Source drawn as a battery</tspan></text>
+  <text x="570" y="275" text-anchor="middle" font-size="13" font-weight="400" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>Remove it: top point = 10 V, bottom = ground (0 V)</tspan></text>
+  <text x="380" y="297" text-anchor="middle" font-size="12" font-weight="400" fill="#6b7280" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>Allowed because the battery's − end sits on ground.</tspan></text>
+</svg>

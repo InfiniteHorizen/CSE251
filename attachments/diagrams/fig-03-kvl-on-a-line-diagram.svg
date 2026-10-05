@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400" role="img" aria-labelledby="t d">
+  <title id="t">KVL sign convention on a line diagram</title><desc id="d">Going from a start node to an end node: minus the start node voltage, plus I R for each resistor, plus V for a source entered at its plus terminal, plus the end node voltage; the sum is zero.</desc>
+  <defs><marker id="ah" markerWidth="10" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L9,4 L0,8 z" fill="#1f2937"/></marker></defs>
+  <rect x="1" y="1" width="758" height="398" rx="12" fill="#ffffff" stroke="#d1d5db"/>
+  <circle cx="200" cy="45" r="5" fill="#1d4ed8"/>
+  <text x="186" y="50" text-anchor="end" font-size="14" font-weight="700" fill="#1d4ed8" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>V₁ (start node)</tspan></text>
+  <line x1="200" y1="45" x2="200" y2="75" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <polyline points="200.0,75.0 200.0,87.0 208.0,90.0 192.0,96.0 208.0,102.0 192.0,108.0 208.0,114.0 192.0,120.0 200.0,123.0 200.0,135.0" fill="none" stroke="#1f2937" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="182" y="110.0" text-anchor="end" font-size="15" font-weight="400" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>R₁</tspan></text>
+  <line x1="200" y1="135" x2="200" y2="166" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="200" cy="180" r="14" fill="#ffffff" stroke="#1f2937" stroke-width="2"/>
+  <text x="200" y="177" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif">+</text>
+  <text x="200" y="191" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif">−</text>
+  <text x="176" y="185" text-anchor="end" font-size="15" font-weight="600" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>V</tspan></text>
+  <line x1="200" y1="194" x2="200" y2="225" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <polyline points="200.0,225.0 200.0,237.0 208.0,240.0 192.0,246.0 208.0,252.0 192.0,258.0 208.0,264.0 192.0,270.0 200.0,273.0 200.0,285.0" fill="none" stroke="#1f2937" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="182" y="260.0" text-anchor="end" font-size="15" font-weight="400" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>R₂</tspan></text>
+  <line x1="200" y1="285" x2="200" y2="320" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="200" cy="320" r="5" fill="#1d4ed8"/>
+  <text x="186" y="325" text-anchor="end" font-size="14" font-weight="700" fill="#1d4ed8" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>V₂ (end node)</tspan></text>
+  <line x1="60" y1="95" x2="60" y2="295" stroke="#6b7280" stroke-width="2" stroke-linecap="round" marker-end="url(#ah)"/>
+  <text x="46" y="200" text-anchor="end" font-size="16" font-weight="700" fill="#6b7280" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>I</tspan></text>
+  <line x1="226" y1="45" x2="316" y2="45" stroke="#9ca3af" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="5 4"/>
+  <text x="330" y="50" text-anchor="start" font-size="17" font-weight="700" fill="#1d4ed8" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>−V₁</tspan></text>
+  <text x="425" y="43" text-anchor="start" font-size="13" font-weight="400" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>leave the start node:</tspan></text>
+  <text x="425" y="60" text-anchor="start" font-size="13" font-weight="400" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>minus sign</tspan></text>
+  <line x1="226" y1="105.0" x2="316" y2="105.0" stroke="#9ca3af" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="5 4"/>
+  <text x="330" y="110.0" text-anchor="start" font-size="17" font-weight="700" fill="#1d4ed8" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>+ I R₁</tspan></text>
+  <text x="425" y="110.0" text-anchor="start" font-size="13" font-weight="400" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>resistor: always + I R</tspan></text>
+  <line x1="226" y1="180" x2="316" y2="180" stroke="#9ca3af" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="5 4"/>
+  <text x="330" y="185" text-anchor="start" font-size="17" font-weight="700" fill="#1d4ed8" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>+ V</tspan></text>
+  <text x="425" y="178" text-anchor="start" font-size="13" font-weight="400" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>source entered at its + terminal: + V</tspan></text>
+  <text x="425" y="195" text-anchor="start" font-size="13" font-weight="400" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>(entered at its − terminal: − V)</tspan></text>
+  <line x1="226" y1="255.0" x2="316" y2="255.0" stroke="#9ca3af" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="5 4"/>
+  <text x="330" y="260.0" text-anchor="start" font-size="17" font-weight="700" fill="#1d4ed8" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>+ I R₂</tspan></text>
+  <text x="425" y="260.0" text-anchor="start" font-size="13" font-weight="400" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>resistor: always + I R</tspan></text>
+  <line x1="226" y1="320" x2="316" y2="320" stroke="#9ca3af" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="5 4"/>
+  <text x="330" y="325" text-anchor="start" font-size="17" font-weight="700" fill="#1d4ed8" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>+V₂</tspan></text>
+  <text x="425" y="318" text-anchor="start" font-size="13" font-weight="400" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>arrive at the end node:</tspan></text>
+  <text x="425" y="335" text-anchor="start" font-size="13" font-weight="400" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>plus sign</tspan></text>
+  <rect x="50" y="352" width="660" height="36" rx="8" fill="#eff6ff" stroke="#bfdbfe"/>
+  <text x="380" y="376" text-anchor="middle" font-size="16" font-weight="600" fill="#1f2937" font-family="Inter, 'Segoe UI', Arial, sans-serif"><tspan>−V₁ + I R₁ + V + I R₂ + V₂ = 0   ⇒   I = (V₁ − V₂ − V) / (R₁ + R₂)</tspan></text>
+</svg>
