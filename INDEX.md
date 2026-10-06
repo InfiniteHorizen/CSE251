@@ -11,8 +11,9 @@ Class-by-class notes, built from lecture recordings and handwritten notes.
 
 ## Start here
 
-- [Course Overview](Course%20Overview.md): what the course covers and how the components connect; read first
-- [Formula Sheet](Formula%20Sheet.md): every formula and sign convention so far; read before practice or a quiz
+- [[Course Overview]]: what the course covers and how the components connect; read first
+- [[Formula Sheet]]: every formula and sign convention so far; read before practice or a quiz
+- [[Resources]]: curated video lectures (BuX / Abid Abrar Sir), textbooks, and problem sets
 
 ## Lectures
 

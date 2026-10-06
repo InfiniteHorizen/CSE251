@@ -40,6 +40,6 @@ graph LR
 
 ## Starting point: line circuits
 
-Before any new component, the course first teaches a simpler way to draw and analyse circuits. See [Lecture 01](Lectures/2026-10-04%20Lecture%2001%20-%20Line%20Circuit%20Representation.md).
+Before any new component, the course first teaches a simpler way to draw and analyse circuits. See [[2026-10-04 Lecture 01 - Line Circuit Representation|Lecture 01]].
 
-Related: [Course Index](INDEX.md), [Formula Sheet](Formula%20Sheet.md)
+Related: [[INDEX|Course Index]], [[Formula Sheet]], [[Resources]]
